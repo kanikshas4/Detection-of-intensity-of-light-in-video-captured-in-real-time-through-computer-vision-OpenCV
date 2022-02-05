@@ -1,4 +1,5 @@
 # Detection-of-intensity-of-light-in-video-captured-in-real-time-through-computer-vision-OpenCV
+This project detects the facial 468 landmarks using face mesh google's mediapipe library and then using a threshold value checks the intensity of the light.
 
 <img width="637" alt="Screenshot 2022-02-04 at 12 24 25 AM" src="https://user-images.githubusercontent.com/68723267/152644978-8e478929-0096-4b93-b163-b7de8cc87265.png">
 
