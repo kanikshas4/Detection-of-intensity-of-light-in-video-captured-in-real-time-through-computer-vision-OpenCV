@@ -1,0 +1,1 @@
+# Detection-of-intensity-of-light-in-video-captured-in-real-time-through-computer-vision-OpenCV
